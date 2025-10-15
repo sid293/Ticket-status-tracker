@@ -38,7 +38,7 @@ A full-stack ticket management system with automated status progression and emai
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sid293/Ticket-status-tracker.git 
    cd Ticket-status-tracker
    ```
 
